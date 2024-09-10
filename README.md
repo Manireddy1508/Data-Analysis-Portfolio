@@ -6,3 +6,5 @@ I enjoy working with data-driven systems and exploring how technology can be app
 I’m excited to bring my skills in systems analysis, database design, and project management into the workplace, and I look forward to contributing to innovative IT solutions.
 
 In my free time, I love exploring new data analysis tools and techniques, and I'm always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am motivated by the thrill of discovering new insights and the satisfaction of using data to solve complex business challenges.
+
+This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
