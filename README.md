@@ -14,3 +14,12 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 - [About](#About)
+- [Skills](#Skills)
+- [Projects](#Projects)
+  -**Python**
+    -[Uber analysis](#Uber-analysis)      
+- [Education](#Education)
+- [Certificates](#Certificates)
+- [Contact](#Contact)
+
+
