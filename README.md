@@ -8,3 +8,5 @@ I’m excited to bring my skills in systems analysis, database design, and proje
 In my free time, I love exploring new data analysis tools and techniques, and I'm always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am motivated by the thrill of discovering new insights and the satisfaction of using data to solve complex business challenges.
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+
+#Table of Contents
