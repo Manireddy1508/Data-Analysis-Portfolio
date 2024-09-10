@@ -19,9 +19,9 @@ This is a repository to showcase skills, share projects and track my progress in
   
 - [Projects](#Projects)
   
-  -**Python**
+  - **Python**
 
-    -[Uber analysis](#Uber-analysis)      
+    - [Uber analysis](#Uber-analysis)      
 
 - [Education](#Education)
 
