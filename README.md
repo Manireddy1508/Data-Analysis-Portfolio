@@ -63,5 +63,19 @@ Geographic Hotspots: Using heat maps, the project pinpoints geographic areas wit
 
 Dispatching Base Efficiency: The violin plot and heat maps show how different base numbers manage ride demand, helping to evaluate operational performance.
 
+##Technologies
+
+Python: The primary programming language used in this project.
+
+Jupyter Notebook: Used to write and run the analysis interactively.
+
+Pandas: For data manipulation and analysis.
+
+Plotly: For interactive visualizations (e.g., violin plots).
+
+Seaborn & Matplotlib: For generating heat maps and other visualizations.
+
+Folium: For creating geographical heat maps.
+
 
 
