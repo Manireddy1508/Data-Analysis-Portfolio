@@ -1,4 +1,4 @@
-# Data-Analysis-Portfolio
+# Uber-Ride-Analysis-Project
 
 ## About
 
@@ -15,25 +15,53 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - [About](#About)
   
-- [Skills](#Skills)
+- [Overview](#Overview)
   
-- [Projects](#Projects)
-  
-  - **Python**
+- [Structure](#Structure)     
 
-    - [Uber analysis](#Uber-analysis)      
+- [Analysis_Performed](#Analysis_Performed)
 
-- [Education](#Education)
+- [Highlights](#Highlights)
 
-- [Certificates](#Certificates)
+- [Technologies](#Technologies)
 
-- [Contact](#Contact)
+#Uber_Analysis_Project :
 
-# Projects
+(https://nbviewer.org/github/Manireddy1508/Uber-Ride-Analysis/blob/main/Uber%20analysis.ipynb) - Use this link to get detailed plots and tables.
 
-## Python
+##Overview :
 
-###Uber Analysis Project :
+This project aims to analyze Uber ride patterns, focusing on both temporal and geographic dimensions. Through various data visualizations such as violin plots, pivot tables, and heat maps, the project provides insights into ride demand trends across different times of day, days of the week, and geographic locations. The goal is to understand peak hours, geographic hotspots, and operational efficiencies for Uber’s services.
+
+##Structure :
+
+Jupyter Notebook (Uber_analysis.ipynb): The main notebook containing all the data analysis and visualizations.
+
+Data Files: The dataset used for this project, which includes Uber ride information with attributes like Date/Time, dispatching_base_number, and active_vehicles.
+
+README.md: This file, providing an overview of the project.
+
+##Analysis_Performed :
+
+1. Temporal Analysis
+Peak Hours Identification: Extracted the day and hour information from the Date/Time column to identify periods with the highest demand for Uber rides.
+Day-to-Day Ride Patterns: Explored how ride volume fluctuates across different days of the week using pivot tables and heat maps.
+
+2. Geographic Analysis
+Heat Map of Ride Density: A heat map was generated to visualize where Uber rides are concentrated geographically, highlighting demand hotspots.
+Dispatching Base Number Analysis: Analyzed how different dispatching base numbers handle rides across time, identifying the bases with the highest and lowest ride activity.
+
+3. Visualizations
+Violin Plot: Visualized the distribution of active vehicles across different dispatching base numbers.
+Pivot Tables & Heat Maps: Used to provide intuitive visual insights into the ride volume across days, hours, and geographic locations.
+
+##Highlights :
+
+Ride Patterns: The project successfully identifies peak demand periods, both hourly and daily, which can inform Uber’s fleet management.
+
+Geographic Hotspots: Using heat maps, the project pinpoints geographic areas with the highest ride density, allowing Uber to optimize driver allocation.
+
+Dispatching Base Efficiency: The violin plot and heat maps show how different base numbers manage ride demand, helping to evaluate operational performance.
 
 
-https://nbviewer.org/github/Manireddy1508/Data-Analysis-Portfolio/blob/main/Uber%20analysis.ipynb
+
