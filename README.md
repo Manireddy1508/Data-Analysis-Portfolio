@@ -29,11 +29,11 @@ This is a repository to showcase skills, share projects and track my progress in
 
 (https://nbviewer.org/github/Manireddy1508/Uber-Ride-Analysis/blob/main/Uber%20analysis.ipynb) - Use this link to get detailed plots and tables.
 
-## Overview :
+## Overview
 
 This project aims to analyze Uber ride patterns, focusing on both temporal and geographic dimensions. Through various data visualizations such as violin plots, pivot tables, and heat maps, the project provides insights into ride demand trends across different times of day, days of the week, and geographic locations. The goal is to understand peak hours, geographic hotspots, and operational efficiencies for Uber’s services.
 
-## Structure :
+## Structure
 
 Jupyter Notebook (Uber_analysis.ipynb): The main notebook containing all the data analysis and visualizations.
 
@@ -41,7 +41,7 @@ Data Files: The dataset used for this project, which includes Uber ride informat
 
 README.md: This file, providing an overview of the project.
 
-## Analysis Performed :
+## Analysis Performed
 
 1. Temporal Analysis
 Peak Hours Identification: Extracted the day and hour information from the Date/Time column to identify periods with the highest demand for Uber rides.
@@ -55,7 +55,7 @@ Dispatching Base Number Analysis: Analyzed how different dispatching base number
 Violin Plot: Visualized the distribution of active vehicles across different dispatching base numbers.
 Pivot Tables & Heat Maps: Used to provide intuitive visual insights into the ride volume across days, hours, and geographic locations.
 
-## Highlights :
+## Highlights
 
 Ride Patterns: The project successfully identifies peak demand periods, both hourly and daily, which can inform Uber’s fleet management.
 
