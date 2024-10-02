@@ -19,7 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
   
 - [Structure](#Structure)     
 
-- [Analysis Performed](#Analysis Performed)
+- [Analysis](#Analysis)
 
 - [Highlights](#Highlights)
 
@@ -41,7 +41,7 @@ Data Files: The dataset used for this project, which includes Uber ride informat
 
 README.md: This file, providing an overview of the project.
 
-## Analysis Performed
+## Analysis
 
 1. Temporal Analysis
 Peak Hours Identification: Extracted the day and hour information from the Date/Time column to identify periods with the highest demand for Uber rides.
