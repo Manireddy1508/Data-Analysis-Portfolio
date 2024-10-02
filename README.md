@@ -19,7 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
   
 - [Structure](#Structure)     
 
-- [Analysis_Performed](#Analysis_Performed)
+- [Analysis Performed](#Analysis Performed)
 
 - [Highlights](#Highlights)
 
